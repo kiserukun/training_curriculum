@@ -12,6 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  background-color: rgb(114, 151, 161);
 }
 
 .item {
@@ -38,9 +39,6 @@ body {
   overflow: scroll;
 }
 
-.plan-list {
-  margin: 1vh 0;
-}
 
 .form {
   display: flex;
